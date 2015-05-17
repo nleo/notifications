@@ -38,3 +38,7 @@ Channel::Telegram.send some_contact.telegram, text
 
 * http://siliconrus.com/2015/02/push-is-in-sms-is-out/
 * http://top.rbc.ru/own_business/25/03/2015/55112f499a7947727d498660
+
+## Мокапы
+
+![Add contact mockup](/mockups/AddContact.png?raw=true "Add contact mockup")
