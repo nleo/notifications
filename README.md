@@ -46,3 +46,9 @@ Channel::Telegram.send some_contact.telegram, text
 ![Send new message to tag](/mockups/NewMessage.png?raw=true "Send new message to tag")
 
 ![Contacts index](/mockups/contacts_index.png?raw=true "Contacts index")
+
+## Лицензия на документацию и картинки
+
+[![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png "CC BY-NC-SA ")](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) 
+
+«Attribution-NonCommercial-ShareAlike» («Атрибуция — Некоммерческое использование — На тех же условиях») 
