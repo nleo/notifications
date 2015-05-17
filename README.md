@@ -42,3 +42,5 @@ Channel::Telegram.send some_contact.telegram, text
 ## Мокапы
 
 ![Add contact mockup](/mockups/AddContact.png?raw=true "Add contact mockup")
+
+![Send new message to tag](/mockups/NewMessage.png?raw=true "Send new message to tag")
